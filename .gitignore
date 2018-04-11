@@ -9,3 +9,5 @@ cmake-build-debug/
 
 CMakeLists.txt
 
+# vscode
+.vscode/
