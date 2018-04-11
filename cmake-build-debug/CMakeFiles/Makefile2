@@ -60,39 +60,39 @@ CMAKE_SOURCE_DIR = /Users/hanzhengbo/CLionProjects/LeetCode
 CMAKE_BINARY_DIR = /Users/hanzhengbo/CLionProjects/LeetCode/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/exercise2.dir
+# Target rules for target CMakeFiles/LeetCode.dir
 
 # All Build rule for target.
-CMakeFiles/exercise2.dir/all:
-	$(MAKE) -f CMakeFiles/exercise2.dir/build.make CMakeFiles/exercise2.dir/depend
-	$(MAKE) -f CMakeFiles/exercise2.dir/build.make CMakeFiles/exercise2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/hanzhengbo/CLionProjects/LeetCode/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19 "Built target exercise2"
-.PHONY : CMakeFiles/exercise2.dir/all
+CMakeFiles/LeetCode.dir/all:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/depend
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/hanzhengbo/CLionProjects/LeetCode/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target LeetCode"
+.PHONY : CMakeFiles/LeetCode.dir/all
 
 # Include target in all.
-all: CMakeFiles/exercise2.dir/all
+all: CMakeFiles/LeetCode.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/exercise2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/hanzhengbo/CLionProjects/LeetCode/cmake-build-debug/CMakeFiles 19
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/exercise2.dir/all
+CMakeFiles/LeetCode.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/hanzhengbo/CLionProjects/LeetCode/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/LeetCode.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/hanzhengbo/CLionProjects/LeetCode/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/exercise2.dir/rule
+.PHONY : CMakeFiles/LeetCode.dir/rule
 
 # Convenience name for target.
-exercise2: CMakeFiles/exercise2.dir/rule
+LeetCode: CMakeFiles/LeetCode.dir/rule
 
-.PHONY : exercise2
-
-# clean rule for target.
-CMakeFiles/exercise2.dir/clean:
-	$(MAKE) -f CMakeFiles/exercise2.dir/build.make CMakeFiles/exercise2.dir/clean
-.PHONY : CMakeFiles/exercise2.dir/clean
+.PHONY : LeetCode
 
 # clean rule for target.
-clean: CMakeFiles/exercise2.dir/clean
+CMakeFiles/LeetCode.dir/clean:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/clean
+.PHONY : CMakeFiles/LeetCode.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/LeetCode.dir/clean
 
 .PHONY : clean
 

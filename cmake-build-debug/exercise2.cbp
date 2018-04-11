@@ -82,69 +82,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/100. Same Tree/sameTree.cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/35.Search Insert Position/searchInsertPosition.cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/38. Count and Say/countAndSay.cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/50. Pow(x, n)/Pow(x, n).cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/53. Maximum Subarray/maximumSubarray.cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/58. Length of Last Word/lengthofLastWord.cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/83. Remove Duplicates from Sorted List/removeDuplicatesfromSortedList.cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/addTwoNumbers/addTwoNumbers.cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/lengthOfLongestSubstring/lengthOfLongestSubstring.cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/palindromeNumber/palindromeNumber.cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/postorderTraversal/postorderTraversal.cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/postorderTraversal/postorderTraversal.h">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/removeDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/removeElement/removeElement.cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/removeElements/27.removeElement.cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/removeNthFromEnd/removeNthFromEnd.cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/removeNthFromEnd/removeNthFromEnd.h">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/reverseInteger/reverseInteger.cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/twoSum/twoSum.cpp">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/twoSum/twoSum.h">
-			<Option target="exercise2"/>
-		</Unit>
-		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/validParentheses/validParentheses.cpp">
-			<Option target="exercise2"/>
-		</Unit>
 		<Unit filename="/Users/hanzhengbo/CLionProjects/LeetCode/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

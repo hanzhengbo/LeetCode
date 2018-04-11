@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# CLion
+cmake-build-debug/
+.idea/
+
+# Mac
+**/.DS_Store
+
+CMakeLists.txt
+
