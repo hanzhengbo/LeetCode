@@ -92,9 +92,4 @@ public:
     }
 };
 
-int main(void) {
-    Solution *solution = new Solution();
-    cout<<solution->multiply("12343242423423424", "4564353645635522")<<endl;
-    return 0;
-}
 
