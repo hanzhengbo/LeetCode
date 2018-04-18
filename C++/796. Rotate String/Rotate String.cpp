@@ -38,13 +38,4 @@ public:
         return result;
     }
 };
-//
-//int main(void){
-//    string A = "abcde";
-//    string B = "abced";
-//    Solution *solution = new Solution();
-//
-//    bool res = solution->rotateString(A,B);
-//    printf("%d",res);
-//    return 0;
-//}
+
