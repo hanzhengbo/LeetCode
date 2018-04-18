@@ -38,18 +38,18 @@ public:
     }
 };
 
-int main(void) {
-    vector<int> v;
-    v.push_back(1);
-    v.push_back(0);
-    v.push_back(0);
-    v.push_back(0);
-    v.push_back(1);
-    v.push_back(0);
-    v.push_back(0);
-    Solution *solution = new Solution();
-    bool res = solution->canPlaceFlowers(v, 2);
-    printf("%d", res);
-    return 0;
-}
+//int main(void) {
+//    vector<int> v;
+//    v.push_back(1);
+//    v.push_back(0);
+//    v.push_back(0);
+//    v.push_back(0);
+//    v.push_back(1);
+//    v.push_back(0);
+//    v.push_back(0);
+//    Solution *solution = new Solution();
+//    bool res = solution->canPlaceFlowers(v, 2);
+//    printf("%d", res);
+//    return 0;
+//}
 
