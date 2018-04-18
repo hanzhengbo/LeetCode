@@ -23,11 +23,12 @@ public:
                 digits[len - 1 - i]++;
                 digits[len - i] = 0;
                 count++;
-                continue;
+                if(digits[len-1-i] == 10)
+                    continue;
             }
             return digits;
         }
-        if (count == len) {
+        if (count == (len-1)) {
             vector<int> res;
             res.push_back(1);
             for (int i = 0; i < len; i++)
@@ -37,3 +38,4 @@ public:
         return single;
     }
 };
+
