@@ -53,8 +53,6 @@ public:
             if (num == 2)
                 return true;
         }
-//        if(isPrime(num))
-//            return false;
         if (num % 2 == 0)
             return false;
         if (num % 3 == 0)
