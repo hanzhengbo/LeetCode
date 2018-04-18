@@ -45,19 +45,4 @@ public:
     }
 
 };
-//
-//int main(int argc, char * argv[]){
-//    vector<int> rs;
-//    rs.push_back(1);
-//    rs.push_back(2);
-//    rs.push_back(3);
-//    rs.push_back(4);
-//    rs.push_back(6);
-//    rs.push_back(7);
-//    rs.push_back(8);
-//    rs.push_back(9);
-//    Solution *solution = new Solution();
-//    int num = solution->numberOfArithmeticSlices(rs);
-//    printf("%d",num);
-//    return 0;
-//}
+
