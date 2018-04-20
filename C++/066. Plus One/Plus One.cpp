@@ -10,7 +10,7 @@ public:
         digits[len - 1]++;
         vector<int> single;
         if (len == 1) {
-            if(digits[0] == 10){
+            if (digits[0] == 10) {
                 single.push_back(1);
                 single.push_back(0);
                 return single;
@@ -23,12 +23,12 @@ public:
                 digits[len - 1 - i]++;
                 digits[len - i] = 0;
                 count++;
-                if(digits[len-1-i] == 10)
+                if (digits[len - 1 - i] == 10)
                     continue;
             }
             return digits;
         }
-        if (count == (len-1)) {
+        if (count == (len - 1)) {
             vector<int> res;
             res.push_back(1);
             for (int i = 0; i < len; i++)
