@@ -12,6 +12,7 @@ public:
             for (int j = 0; j <= sqrta; j++) {
                 if (i * i + sqrta * sqrta < c)
                     break;
+
                 if (i * i + j * j == c)
                     return true;
             }
