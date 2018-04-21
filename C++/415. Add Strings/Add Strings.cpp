@@ -73,6 +73,7 @@ public:
                 }
             }
         }
+
         if (re == "")
             re = "0";
         return re;
