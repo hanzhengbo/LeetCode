@@ -68,21 +68,21 @@ public:
         return result;
     }
 };
-
-int main(void) {
-    Solution *solution = new Solution();
-    vector<int> v;
-    v.push_back(7);
-    v.push_back(6);
-    v.push_back(5);
-    v.push_back(6);
-    v.push_back(4);
-    v.push_back(3);
-    v.push_back(3);
-    v.push_back(3);
-    v.push_back(4);
-    v.push_back(4);
-    int num = solution->candy(v);
-    printf("%d",num);
-    return 0;
-}
+//
+//int main(void) {
+//    Solution *solution = new Solution();
+//    vector<int> v;
+//    v.push_back(7);
+//    v.push_back(6);
+//    v.push_back(5);
+//    v.push_back(6);
+//    v.push_back(4);
+//    v.push_back(3);
+//    v.push_back(3);
+//    v.push_back(3);
+//    v.push_back(4);
+//   // v.push_back(4);
+//    int num = solution->candy(v);
+//    printf("%d",num);
+//    return 0;
+//}
