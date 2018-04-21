@@ -23,6 +23,7 @@ public:
             num -= i;
             i += 2;
         }
+
         return num == 0;
     }
 };
