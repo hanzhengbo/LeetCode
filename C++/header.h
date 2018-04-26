@@ -34,4 +34,13 @@ struct ListNode {
     ListNode *next;
     ListNode(int x) : val(x), next(NULL) {}
 };
+
+/**
+ * Leetcode 138. Copy List with Random Pointer
+ */
+struct RandomListNode {
+    int label;
+    RandomListNode *next, *random;
+    RandomListNode(int x) : label(x), next(NULL), random(NULL) {}
+};
 #endif //LEETCODE_HEADER_H
