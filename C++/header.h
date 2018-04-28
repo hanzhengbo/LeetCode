@@ -43,4 +43,13 @@ struct RandomListNode {
     RandomListNode *next, *random;
     RandomListNode(int x) : label(x), next(NULL), random(NULL) {}
 };
+
+int ListLength(ListNode *head) {
+    int i = 0;
+    while (head) {
+        i++;
+        head = head->next;
+    }
+    return i;
+}
 #endif //LEETCODE_HEADER_H
